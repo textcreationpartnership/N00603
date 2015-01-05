@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000734_0000_0FAA54E7533DC418"/>
-            <pb facs="tcp:000734_0001_0FAA54EDDB633718" rendition="simple:additions"/>
+            <pb facs="unknown:000734_0000_0FAA54E7533DC418"/>
+            <pb facs="unknown:000734_0001_0FAA54EDDB633718"
+                rendition="simple:additions"/>
             <head>By His Excellency <hi>Benjamin Fletcher,</hi> Captain General and Governour in Chief of The Province of <hi>New-York,</hi> and the Territories and Tracts of Land depending thereon in <hi>America,</hi> and Vice-Admiral of the same, His Majesties Lieutenant and Commander in Chief of the Militia, and of all the Forces by Sea and Land within His Majesties Collony of <hi>Connecticut,</hi> and of all the Forts and places of Strength within the same.</head>
             <head type="sub">A PROCLAMATION</head>
             <p>WHEREAS I am imformed that there are <hi>French</hi> Privateers coming upon this Coast, I have ordered His Majesty's Ship, <hi>The Richmond,</hi> to Cruise, for the Defence of this Province. And for the better strengthening of the said Ship against the Enemy, and to prevent that Obstruction which may be given to the Trade and Navigation of this Province, by Impressing of Marriners, <gap reason="illegible: indecipherable" extent="1 span">
